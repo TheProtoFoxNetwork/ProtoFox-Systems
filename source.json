@@ -1,13 +1,11 @@
 {
-    "name":"Example Listing",
+    "name":"ProtoFox Systems",
     "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "url":"https://TheProtoFoxNetwork.github.io/ProtoFox-Systems/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "name":"ProtoFox"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Listing of ProtoFox Systems for affiliate events teams ease of access",
     "infoLink":{
         "url":"http://github.com/vrchat-community/template-package-listing",
         "text":"View on GitHub"
